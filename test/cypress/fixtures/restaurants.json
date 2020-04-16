@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Ayf Kebap",
+    "highlightedTitle": "Ayf Kebap",
+    "vicinity": "Rielerweg 48<br/>7416 ZH Deventer",
+    "highlightedVicinity": "Rielerweg 48<br/>7416 ZH Deventer",
+    "position": [
+      52.25713,
+      6.16877
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528jx7ps-eb06fff3a94305a02a5f9ebbb92e245b;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz0w?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528jx7ps-eb06fff3a94305a02a5f9ebbb92e245b",
+    "distance": 6266,
+    "rating": {
+      "total": 5,
+      "average": "3.40"
+    }
+  },
+  {
+    "title": "Safak",
+    "highlightedTitle": "Safak",
+    "vicinity": "Kleine Overstraat 22<br/>7411 JL Deventer",
+    "highlightedVicinity": "Kleine Overstraat 22<br/>7411 JL Deventer",
+    "position": [
+      52.25246,
+      6.1574
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528u1k3k-37c7512088394380894fbcf9e6a965c9;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz0x?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528u1k3k-37c7512088394380894fbcf9e6a965c9",
+    "distance": 6990
+  },
+  {
+    "title": "Dönerix",
+    "highlightedTitle": "Dönerix",
+    "vicinity": "Brink 96<br/>7411 BZ Deventer",
+    "highlightedVicinity": "Brink 96<br/>7411 BZ Deventer",
+    "position": [
+      52.25304,
+      6.1598
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528u1k3k-90f7c818072c41c9bf90621b6c20a1ab;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz0y?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528u1k3k-90f7c818072c41c9bf90621b6c20a1ab",
+    "distance": 6830
+  },
+  {
+    "title": "Marmaris",
+    "highlightedTitle": "Marmaris",
+    "vicinity": "Brink 86<br/>7411 BX Deventer",
+    "highlightedVicinity": "Brink 86<br/>7411 BX Deventer",
+    "position": [
+      52.25236,
+      6.16011
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528u1k3k-d17d9f235d1d4eb5ac187e0430be10e6;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz0z?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528u1k3k-d17d9f235d1d4eb5ac187e0430be10e6",
+    "distance": 6804
+  },
+  {
+    "title": "Uludag",
+    "highlightedTitle": "Uludag",
+    "vicinity": "Nieuwstraat 96<br/>7411 LP Deventer",
+    "highlightedVicinity": "Nieuwstraat 96<br/>7411 LP Deventer",
+    "position": [
+      52.255367,
+      6.15353
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528u1k3k-8f35e76a53af4d9593ed967fdc479a21;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz00?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528u1k3k-8f35e76a53af4d9593ed967fdc479a21",
+    "distance": 7277,
+    "rating": {
+      "total": 1,
+      "average": "2.00"
+    }
+  },
+  {
+    "title": "Antepia",
+    "highlightedTitle": "Antepia",
+    "vicinity": "Zuiderzeestraat 2<br/>7411 MC Deventer",
+    "highlightedVicinity": "Zuiderzeestraat 2<br/>7411 MC Deventer",
+    "position": [
+      52.24597,
+      6.16902
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528u1k3h-3de9c420ec6b404f90b2a7a869968126;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz01?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528u1k3h-3de9c420ec6b404f90b2a7a869968126",
+    "distance": 6198
+  },
+  {
+    "title": "Kervan Döner",
+    "highlightedTitle": "Kervan Döner",
+    "vicinity": "Beugelskamp 20<br/>7414 CT Deventer",
+    "highlightedVicinity": "Beugelskamp 20<br/>7414 CT Deventer",
+    "position": [
+      52.27651,
+      6.15088
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528jx7ps-0fe69a23fd140318101181f570f2570c;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz02?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528jx7ps-0fe69a23fd140318101181f570f2570c",
+    "distance": 8022,
+    "rating": {
+      "total": 2,
+      "average": "3.00"
+    }
+  },
+  {
+    "title": "Lahmacun Huis Deventer",
+    "highlightedTitle": "Lahmacun Huis Deventer",
+    "vicinity": "Boxbergerweg 100<br/>7412 BG Deventer",
+    "highlightedVicinity": "Boxbergerweg 100<br/>7412 BG Deventer",
+    "position": [
+      52.2603,
+      6.1508
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528httek-c9bcb11b7e0403f9ab34c2a300af8ded;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz03?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528httek-c9bcb11b7e0403f9ab34c2a300af8ded",
+    "distance": 7532,
+    "rating": {
+      "total": 1,
+      "average": "5.00"
+    }
+  },
+  {
+    "title": "Martin's Doner & Pizza Place",
+    "highlightedTitle": "Martin's Doner & Pizza Place",
+    "vicinity": "Oranjelaan 63B<br/>7431 Diepenveen",
+    "highlightedVicinity": "Oranjelaan 63B<br/>7431 Diepenveen",
+    "position": [
+      52.28622,
+      6.14787
+    ],
+    "category": "restaurant",
+    "categoryTitle": "Restaurant",
+    "href": "https://places.cit.api.here.com/places/v1/places/528u1k37-074534314ad944e789101f355a71fb7d;context=Zmxvdy1pZD0yNDk1ZTZkNy04MTU2LTUwNDYtOGU3ZC1jOTM1ZjZiYjA2NzZfMTU3MTMwNDYzNTkyNF8yODcwXzc0ODgmcmFuaz04?app_id=QUrtfUNgDMXqtIYepQWM&app_code=T_4LDK2B_jHJoEVdKbnJlA",
+    "type": "urn:nlp-types:place",
+    "resultType": "place",
+    "id": "528u1k37-074534314ad944e789101f355a71fb7d",
+    "distance": 8669
+  }
+]
